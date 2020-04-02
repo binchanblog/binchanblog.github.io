@@ -13,14 +13,14 @@ Cho N, tính F (N).
 
 # Ví dụ
 
-## Ví dụ 1:
+### Ví dụ 1:
 Đầu vào: 2
 
 Đầu ra: 1
 
 Giải thích: F(2) = F(1) + F(0) = 1 + 0 = 1.
 
-## Ví dụ 2:
+### Ví dụ 2:
 Đầu vào: 3
 
 Đầu ra: 2
@@ -29,7 +29,6 @@ Giải thích: F(3) = F(2) + F(1) = 1 + 1 = 2.
 
 # Source code
 
-### Code
 {% highlight js %}
 public int fib(int n) {
     switch (n)
