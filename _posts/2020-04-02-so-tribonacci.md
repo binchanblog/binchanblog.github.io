@@ -3,16 +3,16 @@ layout: post
 title: Số Tribonacci!
 ---
 
-# Đề bài
+## Đề bài
 Chuỗi Tribonacci được định nghĩa như sau:
 
 T[0] = 0,  T[1] = 1, T[2] = 1 
 
-và T[n+3] = T[n] + T[n+1] + T[n+2] với n> = 0.
+và T[n+3] = T[n] + T[n+1] + T[n+2] với n >= 0.
 
 Cho n, trả về giá trị của T[n].
 
-# Ví dụ
+## Ví dụ
 
 ### Ví dụ 1:
 
@@ -26,13 +26,13 @@ T[3] = 0 + 1 + 1 = 2
 
 T[4] = 1 + 1 + 2 = 4
 
-# Source code
+## Source code
 
 {% highlight js %}
 public int tribonacci(int n) {
 	switch (n)
 	{
-		case 0:
+        case 0:
 			return 0;
 		case 1:
 		case 2:
