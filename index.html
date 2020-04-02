@@ -13,8 +13,9 @@ layout: default
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content | truncatewords:100 }}
+    {{ post.content | truncatewords:60 }}
 	
+	<br/>
 	<a href="{{ post.url }}" class="read-more">Read More</a>
 	
   </div>
