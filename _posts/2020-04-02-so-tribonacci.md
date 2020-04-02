@@ -6,7 +6,7 @@ title: Số Tribonacci!
 # Đề bài
 Chuỗi Tribonacci được định nghĩa như sau:
 
-T0 = 0,  T1 = 1, T2 = 1 
+T[0] = 0,  T[1] = 1, T[2] = 1 
 
 và T[n+3] = T[n] + T[n+1] + T[n+2] với n> = 0.
 
