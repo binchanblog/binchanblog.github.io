@@ -28,7 +28,7 @@ Giải thích: F(2) = F(1) + F(0) = 1 + 0 = 1.
 Giải thích: F(3) = F(2) + F(1) = 1 + 1 = 2.
 
 # Source code
-```
+```javascript
 public int fib(int n) {
     switch (n)
     {
