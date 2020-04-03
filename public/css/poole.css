@@ -410,12 +410,15 @@ a.pagination-item:hover {
 }
 
 .masthead-categories {
-	float: right;
-    list-style-type: none;
-	margin-top: -10px;
+	list-style-type: none;
+    margin: 0px;
+    width: 100%;
+    text-align: right;
+    margin-top: -25px;
+    padding: 0px;
 }
 
 .masthead-categories li {
 	display: inline-block;
-	margin-left: 15px;
+	width: 18%;
 }

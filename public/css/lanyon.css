@@ -121,6 +121,19 @@ h1, h2, h3, h4, h5, h6 {
   .masthead-title small {
     display: none;
   }
+  
+  .masthead-categories {
+    list-style-type: none;
+    margin: 0px;
+	padding: 0px;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .masthead-categories li {
+    display: inline-block;
+    width: 21%;
+  }
 }
 
 
