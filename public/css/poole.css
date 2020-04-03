@@ -408,3 +408,14 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.masthead-categories {
+	float: right;
+    list-style-type: none;
+	margin-top: -10px;
+}
+
+.masthead-categories li {
+	display: inline-block;
+	margin-left: 15px;
+}
