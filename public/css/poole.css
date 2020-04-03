@@ -160,7 +160,7 @@ pre {
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
-  padding: 1rem;
+  padding: 0.5rem;
   font-size: .8rem;
   line-height: 1.4;
   white-space: pre;
@@ -176,8 +176,12 @@ pre code {
   background-color: transparent;
 }
 .highlight {
-  margin-bottom: 1rem;
-  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;  
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
 }
 .highlight pre {
   margin-bottom: 0;
