@@ -19,9 +19,11 @@
             <small>{{ site.tagline }}</small>
           </h3>
 		  
+		  <ul>
 		  {% for category in site.categories %}
-			  <h3>{{ category[0] }}</h3>			  			  
-			  {% endfor %}
+			<li><a>{{ category[0] }}</a></li>
+		  {% endfor %}
+		  </ul>
 
         </div>
       </div>
