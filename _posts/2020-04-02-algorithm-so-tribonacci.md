@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Số Tribonacci!
+categories: [algorithm]
 ---
 
 ## Đề bài

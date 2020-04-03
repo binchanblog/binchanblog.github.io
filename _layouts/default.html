@@ -18,6 +18,11 @@
             <a href="/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
+		  
+		  {% for category in site.categories %}
+			  <h3>{{ category[0] }}</h3>			  			  
+			  {% endfor %}
+
         </div>
       </div>
 
