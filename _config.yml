@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            My Blogs
-tagline:          'Sinh'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          '0712'
+description:      'Made by <a href="https://twitter.com/vovansinh" target="_blank">@SinhVV</a>.'
 url:              http://google.com
 
 author:
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/vovansinh
