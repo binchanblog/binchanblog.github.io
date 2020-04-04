@@ -2,6 +2,7 @@
 layout: post
 title: Số Fibonacci!
 categories: [algorithm]
+tags: [fibonacci]
 ---
 
 ## Đề bài

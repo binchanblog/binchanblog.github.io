@@ -2,9 +2,8 @@
 title: My Blogs
 tagline: '0712'
 description: 'Made by <a href="https://twitter.com/vovansinh" target="_blank">@SinhVV</a>.'
-baseurl: "/"
+baseurl: "/lanyon"
 url: http://vovansinh.github.io
-logo: '/public/logo.png'
 
 # Site configurations
 gems:
