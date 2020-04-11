@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Số Tribonacci!
-categories: [algorithm]
-tags: [tribonacci]
+categories:
+  - Algorithm
+tags:
+  - tribonacci
+published: true
 ---
 
 ## Đề bài
