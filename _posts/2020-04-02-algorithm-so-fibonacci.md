@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Số Fibonacci!
-categories: [algorithm]
-tags: [fibonacci]
+categories:
+  - Algorithm
+tags:
+  - fibonacci
+published: true
 ---
 
 ## Đề bài
