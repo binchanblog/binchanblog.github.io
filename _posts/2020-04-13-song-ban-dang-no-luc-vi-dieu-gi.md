@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rốt cuộc, cả đời này, bạn đang nỗ lực vì điều gì?'
+title: 'Rốt cuộc　thì cả đời này, bạn đang cố gắng vì điều gì?'
 categories:
   - Sống
 tags:
