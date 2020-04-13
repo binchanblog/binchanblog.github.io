@@ -3,6 +3,8 @@ layout: post
 title: 'Rốt cuộc, cả đời này, bạn đang nỗ lực vì điều gì?'
 categories:
   - Sống
+tags:
+  - sống
 published: true
 ---
 ### Đời người tưởng dài, nhưng khi quay đầu lại mới nhận ra thật ngắn ngủi. Trong cuộc sống xô bồ hối hả ấy, đã bao giờ bạn tự hỏi: Mục đích sống của mình là gì? Bản thân cố gắng nỗ lực cả đời vì điều gì?
