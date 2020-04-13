@@ -2,9 +2,10 @@
 layout: post
 title: Số Tribonacci!
 categories:
-  - Algorithm
+  - Coding
 tags:
   - tribonacci
+  - algorithm
 published: true
 ---
 

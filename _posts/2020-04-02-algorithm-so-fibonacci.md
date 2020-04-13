@@ -2,9 +2,10 @@
 layout: post
 title: Số Fibonacci!
 categories:
-  - Algorithm
+  - Coding
 tags:
   - fibonacci
+  - algorithm
 published: true
 ---
 
