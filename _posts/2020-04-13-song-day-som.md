@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kiên trì dậy sớm từ 5 giờ sáng, cuộc sống của tôi đã thay đổi ngoạn mục: Thói quen thành công này cần kỷ luật khắt khe, nhưng rất đáng!'
+title: 'Những người thành công thường dậy sớm'
 categories:
   - Sống
 tags:
