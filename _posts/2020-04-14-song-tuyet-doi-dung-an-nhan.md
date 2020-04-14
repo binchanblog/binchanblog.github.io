@@ -45,15 +45,15 @@ Vì sao lại nói vậy? Bởi lẽ nghèo khó chiếm dụng hết thời gia
 #### Vậy đối với những người đi làm, làm thế nào để bước được ra khỏi vùng an toàn? 
 Đây là gợi ý của tôi:
 
-1. Một lần nữa thiết lập lại mục tiêu, phác thảo ra một lộ trình phát triển sự nghiệp, ở mỗi một nút thắt, đều phải đưa ra những lựa chọn "chính xác"
+#### 1. Một lần nữa thiết lập lại mục tiêu, phác thảo ra một lộ trình phát triển sự nghiệp, ở mỗi một nút thắt, đều phải đưa ra những lựa chọn "chính xác"
 
 Khổng Tử nói "Tam thập nhi lập", khi bạn chưa 30 hoặc đã 30, nếu như mục tiêu phát triển nghề nghiệp của bạn vẫn chưa rõ ràng, hãy thiết lập lại chúng, quy hoạch lại cho tốt con đường nghề nghiệp mà mình sẽ đi. Chỉ khi đưa ra quyết định đúng đắn tại mỗi ngã tư, cuộc đời bạn mới trở nên khác biệt. Sợ là sợ khi đã 30 rồi mà bạn vẫn mơ hồ, hoang mang, sống kiểu vừa đi làm vừa mong tới cuối tháng nhận lương, sống cho qua ngày, vậy là được.
 
-2. Chấn chỉnh lại tinh thần, bái "thất bại" làm sư phụ, đồng hành với người ưu tú
+#### 2. Chấn chỉnh lại tinh thần, bái "thất bại" làm sư phụ, đồng hành với người ưu tú
 
 Đừng bao giờ cho rằng một khi thất bại thì cả đời sẽ thất bại. đừng quên, thất bại là mẹ của thành công. Nếu không thất bại, làm sao bạn có thể tìm ra và loại trừ những sai lầm trên con đường thành công? Đừng sợ thất bại, bái "thất bại" làm thầy, tìm ra phương pháp thành công từ trong những thất bại. Một điều nữa, hãy làm bạn với những người ưu tú, tránh xa những người suốt ngày ca thán, mang trong mình năng lượng tiêu cực, hay thích bới móc người khác.
 
-3. Trên con đường bước ra khỏi vùng thoải mái, tránh xa những phiền nhiễu, cám dỗ, nói với bản thân rằng, chỉ có kiên trì mới mang lại thành công, bỏ cuộc giữa chừng bạn sẽ mất tất cả
+#### 3. Trên con đường bước ra khỏi vùng thoải mái, tránh xa những phiền nhiễu, cám dỗ, nói với bản thân rằng, chỉ có kiên trì mới mang lại thành công, bỏ cuộc giữa chừng bạn sẽ mất tất cả
 
 Trên con đường bứt phá, bước ra khỏi vùng an toàn, bạn nhất định sẽ gặp phải không ít cám dỗ, phiền nhiễu, bởi lẽ nhiều người nhìn không lọt mắt khi thấy bạn thay đổi, đố kị khi bạn trở nên hơn họ mà công kích, cám dỗ bạn. Bản thân bạn bắt buộc phải học được cách cự tuyệt những cám dỗ, những sự quấy rầy, một lòng một dạ "tu hành", khi bạn tu hành tới trình độ thay da đổi thịt, bạn sẽ phát hiện ra mình khác trước đây rất nhiều, thì ra cuộc đời lại ẩn chưa vô vàn khả năng như vậy.
 
