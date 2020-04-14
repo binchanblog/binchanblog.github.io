@@ -49,7 +49,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/me.jpg
-  caption: ''
+  caption: 'SinhVV'
 
 # Puglins
 mathjax: true # whether support mathjax
