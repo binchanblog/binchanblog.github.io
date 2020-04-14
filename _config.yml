@@ -38,14 +38,14 @@ nav:
     - '/'
   Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Tags:
+    - '/blog/tags/'
   About:          
     - '/about/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+category_page: '/'
 
 hero:
   image: /public/img/me.jpg
