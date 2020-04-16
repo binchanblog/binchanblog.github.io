@@ -6,6 +6,7 @@ description: 'Made by <a href="https://twitter.com/vovansinh" target="_blank">@S
 # Site configurations
 gems:
   - jekyll-paginate
+#- jekyll-admin
 markdown: kramdown
 kramdown:
   input: GFM
