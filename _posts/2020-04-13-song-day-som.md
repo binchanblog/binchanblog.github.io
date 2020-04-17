@@ -4,7 +4,7 @@ title: 'Những người thành công thường dậy sớm'
 categories:
   - Sống
 tags:
-  - sống
+  - Sưu tầm
 published: true
 ---
 ### "Những người thành công thường dậy sớm", tôi từng nghe nhiều về điều đó nhưng chưa bao giờ thực hiện. Thậm chí tôi còn tự hào vì nhờ những ngày làm cú đêm mà mình hoàn thành các dự án đúng hạn. Nhưng những suy nghĩ ấu trĩ ấy đã phải chấm hết bởi những công năng tuyệt vời mà việc dậy sớm đã mang lại.

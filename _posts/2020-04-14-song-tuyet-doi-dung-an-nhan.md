@@ -4,7 +4,7 @@ title: 'Tuyệt đối đừng lựa chọn an nhàn ở độ tuổi cần ph�
 categories:
   - Sống
 tags:
-  - sống
+  - Sưu tầm
 published: true
 ---
 ### Điều tôi muốn nói ở đây là gì, đó là bạn, khi còn đang ở trong độ tuổi phấn đấu, tuyệt đối đừng lựa chọn hưởng thụ, cũng tuyệt đối đừng lựa chọn an nhàn.
