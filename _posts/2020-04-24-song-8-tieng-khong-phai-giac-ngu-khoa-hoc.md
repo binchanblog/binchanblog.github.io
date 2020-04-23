@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8 TIẾNG KHÔNG PHẢI GIẤC NGỦ KHOA HỌC NHƯ BẠN NGHĨ
+title: 8 tiếng không phải giấc ngủ khoa học như bạn nghĩ
 categories:
   - Sống
 tags:
