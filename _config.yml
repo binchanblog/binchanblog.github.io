@@ -1,7 +1,7 @@
 # Site Info
 title: My Blogs
-tagline: '0712'
-description: 'Made by <a href="https://twitter.com/vovansinh" target="_blank">@SinhVV</a>.'
+tagline: '0601'
+description: 'Made by <a href="https://twitter.com/binchan" target="_blank">@Bin cssshan</a>.'
 
 # Site configurations
 gems:
@@ -22,7 +22,7 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: SinhVV
+  name: Bin chan
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
@@ -50,7 +50,7 @@ category_page: '/'
 
 hero:
   image: /public/img/me.jpg
-  caption: 'SinhVV'
+  caption: 'Bin chan'
 
 # Puglins
 mathjax: true # whether support mathjax
